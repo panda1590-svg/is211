@@ -1,0 +1,15 @@
+{
+    "name": "burger/krig",
+    "autoload": {
+        "psr-4": {
+            "": "BurgerKrig/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Coop Teh",
+            "email": "v.milevskiy@coopteh.ru"
+        }
+    ]
+
+  }
